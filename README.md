@@ -1,3 +1,3 @@
 ﻿# EduVantage
 
-made by InnoVxion Labs with <3
+InnoVxion Labs
