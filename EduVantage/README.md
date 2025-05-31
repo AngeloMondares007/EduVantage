@@ -1,7 +1,6 @@
 # InnoVxion Labs
 
-Demo project
-A new Flutter project.
+A comprehensive mobile application designed to enhance student productivity by integrating key features such as note-taking, audio recording, PDF scanning, flashcards, a Pomodoro timer, and usage statistics. The app is tailored to help students manage tasks efficiently and track their progress over time.
 
 ## Getting Started
 
