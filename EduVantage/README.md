@@ -1,4 +1,4 @@
-# tech_media
+# InnoVxion Labs
 
 Demo project
 A new Flutter project.
